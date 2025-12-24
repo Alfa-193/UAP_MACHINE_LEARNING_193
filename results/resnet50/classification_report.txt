@@ -1,0 +1,10 @@
+                         precision    recall  f1-score   support
+
+amazon green parrot.jpg       0.29      0.18      0.22        11
+        gray parrot.jpg       0.54      0.58      0.56        12
+              macaw.jpg       0.50      0.64      0.56        11
+       white parrot.jpg       0.38      0.38      0.38         8
+
+               accuracy                           0.45        42
+              macro avg       0.42      0.44      0.43        42
+           weighted avg       0.43      0.45      0.44        42
