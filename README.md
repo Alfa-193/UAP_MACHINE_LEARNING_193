@@ -26,3 +26,24 @@ dalam bentuk **dashboard interaktif menggunakan Streamlit**.
 ---
 
 ## 📁 Struktur Folder Project
+UAP_Birds_Classification/
+│
+├── app.py # Aplikasi Streamlit
+├── README.md # Dokumentasi project
+├── requirements.txt # Daftar dependency
+│
+├── dataset/
+│ └── processed/
+│ └── train/
+│ ├── parrot_1/
+│ ├── parrot_2/
+│ └── ...
+│
+├── models/
+│ ├── cnn.h5
+│ ├── mobilenet.h5
+│ └── resnet50.h5
+│
+└── notebooks/
+└── train_3_models.ipynb # Notebook training model
+
