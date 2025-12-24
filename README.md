@@ -143,9 +143,11 @@ dalam melakukan prediksi citra burung beo secara interaktif.
 ## ▶️ Cara Menjalankan Aplikasi
 
 ```bash
-streamlit run app.py
+streamlit run app.py\
 
-📝 Kesimpulan
+---
+
+### 📝 Kesimpulan
 
 Berdasarkan hasil eksperimen, pendekatan Transfer Learning terbukti mampu
 meningkatkan performa klasifikasi citra burung beo dibandingkan model CNN dari awal.
